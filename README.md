@@ -91,4 +91,4 @@ Goldberger, J., Roweis, S., Hinton, G., & Salakhutdinov, R. (2004). Neighbourhoo
 
 ## Licence
 
-MIT. Ramsés Marrero García, Rosalía Cayuela, Clara Brunet, Petter Peñafiel and the AI Laboratory, Hospital Clínic de Barcelona.
+MIT. Rosalía Cayuela, Ramsés Marrero García, Clara Brunet, Petter Peñafiel and the AI Laboratory, Hospital Clínic de Barcelona.
