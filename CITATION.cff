@@ -8,6 +8,12 @@ authors:
   - family-names: "Cayuela"
     given-names: "Rosalía"
     affiliation: "AI Laboratory, Hospital Clínic de Barcelona; Universitat de Barcelona"
+  - family-names: "Brunet"
+    given-names: "Clara"
+    affiliation: "AI Laboratory, Hospital Clínic de Barcelona"
+  - family-names: "Peñafiel"
+    given-names: "Petter"
+    affiliation: "AI Laboratory, Hospital Clínic de Barcelona"
 license: MIT
 repository-code: "https://github.com/ramsestein/perisim_knn_nca"
 date-released: "2026-11-18"
