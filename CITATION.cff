@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the preprint."
+title: "Learned or fixed distance metrics for patient retrieval in ICU prediction models: a pre-registered factorial study reconciling discordant findings"
+authors:
+  - family-names: "Marrero García"
+    given-names: "Ramsés"
+    affiliation: "AI Laboratory, Hospital Clínic de Barcelona; Universitat de Barcelona"
+  - family-names: "Cayuela"
+    given-names: "Rosalía"
+    affiliation: "AI Laboratory, Hospital Clínic de Barcelona; Universitat de Barcelona"
+license: MIT
+repository-code: "https://github.com/ramsestein/perisim_knn_nca"
+date-released: "2026-11-18"
